@@ -14,7 +14,8 @@ Edit this file to update your homepage.
 Here is my embedded map:
 
 <iframe src="https://storage.googleapis.com/maps-solutions-0fqdjxit6o/locator-plus/v805/locator-plus.html"
-  width="100%" height="100%"
+  width="600"
+  height="450"
   style="border:0;"
   loading="lazy">
 </iframe>"
