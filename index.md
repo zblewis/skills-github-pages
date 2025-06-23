@@ -8,3 +8,13 @@ This is my basic homepage, written in Markdown.
 ## About
 
 Edit this file to update your homepage.
+
+# My Map
+
+Here is my embedded map:
+
+<iframe src="https://storage.googleapis.com/maps-solutions-0fqdjxit6o/locator-plus/v805/locator-plus.html"
+  width="100%" height="100%"
+  style="border:0;"
+  loading="lazy">
+</iframe>"
