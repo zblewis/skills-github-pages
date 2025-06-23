@@ -19,3 +19,21 @@ Here is my embedded map:
   style="border:0;"
   loading="lazy">
 </iframe>"
+
+<style>
+.custom-map-wrapper {
+  width: 100% !important;
+  max-width: 1000px !important;
+}
+</style>
+
+<div class="custom-map-wrapper">
+  <iframe
+    src="https://storage.googleapis.com/maps-solutions-0fqdjxit6o/locator-plus/v805/locator-plus.html"
+    width="100%"
+    height="600"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy">
+  </iframe>
+</div>
